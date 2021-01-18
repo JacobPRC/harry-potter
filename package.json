@@ -1,0 +1,24 @@
+{
+  "name": "harry-potter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/client": "^3.3.7",
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
+    "apollo-link-context": "^1.0.20",
+    "apollo-link-http": "^1.5.17",
+    "dotenv": "^8.2.0",
+    "faunadb": "^4.0.0",
+    "framer-motion": "^3.2.1",
+    "gatsby": "^2.30.3",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-layout": "^1.8.0",
+    "gatsby-plugin-theme-ui": "^0.3.5",
+    "isomorphic-fetch": "^3.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "theme-ui": "^0.3.5"
+  }
+}
